@@ -1,0 +1,40 @@
+#app{
+    font-family: 'Coustard', serif;
+}
+
+.router-link-exact-active{
+    font-weight: bold;
+}
+
+.card-header {
+    background-color: #17A2B8;
+}
+
+#title-char, #title-film{
+    color: white;
+}
+
+.nav-link, .navbar-brand{
+    color:black;
+}
+
+.card{
+    border-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb-item.active {
+    font-weight: bold;
+    color: black;
+}
+
+.img-fluid{
+    border-radius: 15px;
+}
+
